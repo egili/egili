@@ -16,11 +16,11 @@
   
   📚 Studying for Salesforce Developer certifications 
  
- In another words, focusing in Full Stack Development  
+ In another words, focusing in Full Stack Development for Cloud Applications 
  
 3x Trailhead Ranger ☁️🤠   ⭐⭐⭐
-  
  
+  
  <h3>My trailhead superbadges:</h3>
    
 <img src="https://user-images.githubusercontent.com/79612701/137359958-d3e21992-47fa-440a-8e09-fe6cbc330728.png" min-width="100px" max-width="100px" width="100px" align="right">
