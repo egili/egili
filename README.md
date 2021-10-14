@@ -7,3 +7,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)](https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e.gili.mfp@gmail.com)](mailto:e.gili.mfp@gmail.com)
