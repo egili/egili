@@ -16,7 +16,8 @@
   
   📚 Studying for Salesforce Developer certifications 
  
-      In another words, focusing in Full Stack Development  
+ In another words, focusing in Full Stack Development  
+ 
 3x Trailhead Ranger ☁️🤠   ⭐⭐⭐
   
  
