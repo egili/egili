@@ -1,5 +1,8 @@
 # eliseu.gili
-
-
-<!--[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=egili&hide=html&layout=compact&theme=onedark)](https://github.com/egili/)
+<!--[![Trailhead badge](https://trailblazer.me/profilephoto/7291I0000019lbG/F)](https://trailblazer.me/id/eliseugili)
 -->
+
+[![Trailhead](https://img.shields.io/badge/Trailhead-blue.svg)](https://trailblazer.me/id/eliseugili)
+
+
+
