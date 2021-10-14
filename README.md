@@ -18,7 +18,7 @@
  
  In another words, focusing in Full Stack Development for Cloud Applications 
  
-3x Trailhead Ranger :cloud: 🤠  :star::star::star: 
+2x Trailhead Ranger :cloud: 🤠  :star::star:
  
   
  <h3>My trailhead superbadges:</h3>
