@@ -1,4 +1,4 @@
-# Hey, I'm Eliseu Gili😊👋🏼 
+# Hey, I'm Eliseu Gili :blush: :wave:
 
 <hr />
 
@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e.gili.mfp@gmail.com)](mailto:e.gili.mfp@gmail.com)
 
 
- I'm a Brazilian IT student at UNICAMP technical high school 💻🌎
+ I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas:
 🌩️
 <p>
 
@@ -18,7 +18,7 @@
  
  In another words, focusing in Full Stack Development for Cloud Applications 
  
-3x Trailhead Ranger ☁️🤠   ⭐⭐⭐
+3x Trailhead Ranger :cloud: 🤠  :star::star::star: 
  
   
  <h3>My trailhead superbadges:</h3>
