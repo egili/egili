@@ -12,10 +12,10 @@
  I'm a Brazilian IT student at UNICAMP technical high school 💻🌎
 🌩️
 <p>
-Focusing in Java and Javascript
+
   
   📚 Studying for Salesforce Developer certifications 
-  
+      In another words, focusing in Full Stack Development  
 3x Trailhead Ranger ☁️🤠   ⭐⭐⭐
   
  
