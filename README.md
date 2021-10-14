@@ -23,7 +23,6 @@
  
  <h3>My trailhead superbadges:</h3>
    
-<img src="https://user-images.githubusercontent.com/79612701/137360441-83180658-56c1-4d47-a074-86beaa7d5777.png" min-width="100px" max-width="100px" width="100px" align="right">   
 <img src="https://user-images.githubusercontent.com/79612701/137359958-d3e21992-47fa-440a-8e09-fe6cbc330728.png" min-width="100px" max-width="100px" width="100px" align="right">
    
    <img src="https://user-images.githubusercontent.com/79612701/137360427-ce4e4573-40ff-4047-8c10-30de73fffa35.png" min-width="100px" max-width="100px" width="100px" align="right">
@@ -34,6 +33,7 @@
    
 <img src="https://user-images.githubusercontent.com/79612701/137360444-0e93247c-772c-4ddb-b8bc-f534d32db614.png" min-width="100px" max-width="100px" width="100px" align="right">
  
-   
+   <img src="https://user-images.githubusercontent.com/79612701/137360441-83180658-56c1-4d47-a074-86beaa7d5777.png" min-width="100px" max-width="100px" width="100px" align="right">   
+
 
    
