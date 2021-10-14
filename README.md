@@ -6,3 +6,4 @@
 
 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)](https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)
