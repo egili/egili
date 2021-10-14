@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e.gili.mfp@gmail.com)](mailto:e.gili.mfp@gmail.com)
 
 
- I'm a 2002 born Brazilian IT student 💻🌎
+ I'm a Brazilian IT student at UNICAMP technical high school 💻🌎
 🌩️
 <p>
 Focusing in Java and Javascript
