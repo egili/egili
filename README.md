@@ -2,8 +2,8 @@
 
 <hr />
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q)
+<!--[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+)](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q)-->
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/eliseugili)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)](https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e.gili.mfp@gmail.com)](mailto:e.gili.mfp@gmail.com)
