@@ -36,4 +36,8 @@
    <img src="https://user-images.githubusercontent.com/79612701/137360441-83180658-56c1-4d47-a074-86beaa7d5777.png" min-width="100px" max-width="100px" width="100px" align="right">   
 
 
+<a href="https://github.com/egili/egili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sousa83&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
    
