@@ -8,10 +8,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)](https://www.linkedin.com/in/eliseu-pereira-gili-a5a6b1210/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:e.gili.mfp@gmail.com)](mailto:gili.eliseup@gmail.com)
 
-
-
-<a href="jhttps://trailblazer.me/id/eliseugili" target="_blank"><img align="center" alt="egili-Trailhead" height="48" width="62" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" target="_blank"></a>
-
+<!--table>
+ <tr>
+ <td><a href="https://www.linkedin.com/in/eliseu-gili-a5a6b1210/" target="_blank"><img align="center" alt="linkedin"  height="48" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> </td> 
+<td><a href="jhttps://trailblazer.me/id/eliseugili" target="_blank"><img align="center" alt="trailhead" height="48" width="62" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" target="_blank"></a></td>
+</tr>
+</table-->
+ 
  I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas:
 🌩️
 <p>
