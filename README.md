@@ -20,9 +20,9 @@
 <p>
 
   
-  📚 Studying for Salesforce Developer certifications 
+  📚 Platform Developer I Certified 
  
- In another words, focusing in Full Stack Development for Cloud Applications 
+ Focusing in Full Stack Development for Cloud Applications 
  
 3x Trailhead Ranger :cloud: 🤠  :star::star::star:
  
