@@ -2,12 +2,14 @@
 
 <hr />
 
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white
+)]()
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/eliseugili)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gili.eliseup@gmail.com)](mailto:gili.eliseup@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 <!--table>
  <tr>
  <td><a href="https://www.linkedin.com/in/eliseu-gili-a5a6b1210/" target="_blank"><img align="center" alt="linkedin"  height="48" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> </td> 
