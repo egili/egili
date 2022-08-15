@@ -24,9 +24,11 @@
   
   📚 Platform Developer I Certified 
  
- Focusing in Full Stack Development for Cloud Applications 
+ Focus in Full Stack Development for Cloud Applications (and still love Java)
  
 3x Trailhead Ranger :cloud: 🤠  :star::star::star:
+
+Currently learning about Clean Code and SOLID principles
  
   
  <h3>My trailhead superbadges:</h3>
