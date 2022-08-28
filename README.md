@@ -1,4 +1,4 @@
-# Hey, I'm Eliseu Gili :blush: :wave:
+# Hey, I'm Eliseu :blush: :wave:
 
 
 
