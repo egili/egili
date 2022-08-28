@@ -1,6 +1,6 @@
 # Hey, I'm Eliseu Gili :blush: :wave:
 
-<hr />
+
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white
