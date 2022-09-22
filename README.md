@@ -20,6 +20,6 @@
  Currently learning about Clean Code and SOLID principles
  </p>
   
- <!--a href="https://github.com/egili/egili">
+ <a href="https://github.com/egili/egili">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egili&langs_count=15&layout=compact&theme=dracula" />
- </a-->
+ </a>
