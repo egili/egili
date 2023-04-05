@@ -13,7 +13,7 @@
 <p align="left">
  I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️
   
-  📚 2x Salesforce Certified 
+  📚 3x Salesforce Certified 
  
  Focus in Full Stack Development for Cloud Applications (and still love Java)
  
