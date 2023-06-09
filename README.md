@@ -20,7 +20,7 @@
  </a>
 
 <div style="display:flex; flex-direction:row">
-  <img width="100" height="100" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/>
-  <img width="100" height="100" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"/>
-  <img width="100" height="100" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png"/>
+  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/>
+  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"/>
+  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png"/>
 </div>
