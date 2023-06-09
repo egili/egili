@@ -6,7 +6,7 @@
   )](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q?si=f1a049bf634343c0)
   [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/eliseugili)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gili.eliseup@gmail.com)](mailto:gili.eliseup@gmail.com)
- <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)-->
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 
 <p align="left">
  I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️
