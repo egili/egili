@@ -11,7 +11,7 @@
 <p align="left">
  I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️
   
- <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=Y8urSlwCUu9Vknj+2N8vhp7YYM0WUTCzX/C71D/Rcgu6s4BNmjQkXbSDIwfeas6b" target="_blank"> 📚 3x Salesforce Certified </a>
+ <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=Y8urSlwCUu9Vknj+2N8vhp7YYM0WUTCzX/C71D/Rcgu6s4BNmjQkXbSDIwfeas6b" target="_blank"> 📚 4x Salesforce Certified </a>
  
  </p>
   
@@ -22,5 +22,6 @@
 <div style="display:flex; flex-direction:row">
   <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/>
   <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"/>
+  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png"/>
   <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png"/>
 </div>
