@@ -9,7 +9,7 @@
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 
 <p align="left">
- I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️
+<!-- I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️-->
   
  <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=Y8urSlwCUu9Vknj+2N8vhp7YYM0WUTCzX/C71D/Rcgu6s4BNmjQkXbSDIwfeas6b" target="_blank"> 📚 4x Salesforce Certified </a>
  
