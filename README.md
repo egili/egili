@@ -1,7 +1,6 @@
 # Hey, I'm Eliseu :blush: :wave:
 
-  <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white
-  )](https://twitter.com/eu_gili)-->
+
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
   )](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q?si=324a0706588a402e)
   [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/eliseugili)
@@ -9,9 +8,8 @@
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 
 <p align="left">
-<!-- I'm a Brazilian IT student at UNICAMP technical high school 💻 :earth_americas: 🌩️-->
   
- <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=Y8urSlwCUu9Vknj+2N8vhp7YYM0WUTCzX/C71D/Rcgu6s4BNmjQkXbSDIwfeas6b" target="_blank"> 📚 4x Salesforce Certified </a>
+ <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=H+HrX1yZaYgsebe2PyrD/ma7aDJrjQ4DrCVKIK6hD8Sx4RXPKAnAaph9iHWa3ER0" target="_blank"> 📚 4x Salesforce Certified </a>
  
  </p>
   
@@ -20,8 +18,8 @@
  </a>
 
 <div style="display:flex; flex-direction:row">
-  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png"/>
-  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png"/>
-  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png"/>
-  <img width="125" height="125" src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=1746782543000"/>
 </div>
