@@ -23,3 +23,8 @@
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000"/>
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=1746782543000"/>
 </div>
+
+
+<!--div style="display:flex; flex-direction:row">
+  <img width="375" height="125" src="https://trailhead.salesforce.com/agentblazer/banner-level-2.png"/>
+</div-->
