@@ -4,12 +4,12 @@
 
 <h2>You can reach me at:</h2>
 
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=plastic&logo=spotify&logoColor=white
   )](https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q?si=324a0706588a402e)
   [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/eliseugili)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:gili.eliseup@gmail.com)](mailto:gili.eliseup@gmail.com)
  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)](mailto:e.gili@outlook.com)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
 
 <p align="left">
   
