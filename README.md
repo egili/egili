@@ -18,9 +18,9 @@
  </p>
  
   
- <!--a href="https://github.com/egili/egili">
+ <a href="https://github.com/egili/egili">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egili&langs_count=15&layout=compact&theme=dracula" />
- </a-->
+ </a>
 
 <div style="display:flex; flex-direction:row">
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000"/>
