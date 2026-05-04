@@ -18,15 +18,15 @@
  </p>
  
   
- <a href="https://github.com/egili/egili">
+ <!--a href="https://github.com/egili/egili">
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egili&langs_count=15&layout=compact&theme=dracula" />
- </a>
+ </a-->
 
-<div style="display:flex; flex-direction:row">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA9LY&oid=00DF0000000gZsu&lastMod=1746780949000"/>
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEmf&oid=00DF0000000gZsu&lastMod=1746780791000"/>
-  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=17467806380000"/>
-  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=1746782543000"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=1746780638000"/>
+  <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=174678254300"/>
 </div>
 
 
