@@ -1,8 +1,8 @@
-# Olá, sou o Eliseu :blush: :wave:
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E6F7&center=true&width=435&height=55&lines=Desenvolvedor+Salesforce+%E2%98%81%EF%B8%8F;4x+Certificações+Salesforce+%F0%9F%93%9A" alt="Headline" />
+# Hi, I'm Eliseu :blush: :wave:
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E6F7&center=true&width=435&height=55&lines=Salesforce+Developer+%E2%98%81%EF%B8%8F;4x+Salesforce+Certifications+%F0%9F%93%9A" alt="Headline" />
 
 
-<h2>Você pode me encontrar em:</h2>
+<h2>You can find me at:</h2>
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/eliseu-pereira-gili/)](https://www.linkedin.com/in/eliseu-pereira-gili/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=plastic&logo=spotify&logoColor=white
