@@ -1,5 +1,5 @@
 # Hi, I'm Eliseu :blush: :wave:
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E6F7&center=true&width=435&height=55&lines=Salesforce+Developer+%E2%98%81%EF%B8%8F;4x+Salesforce+Certifications+%F0%9F%93%9A" alt="Headline" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33E6F7&center=true&width=435&height=55&lines=Salesforce+Developer+%E2%98%81%EF%B8%8F;4x+Salesforce+Certified+%F0%9F%93%9A" alt="Headline" />
 
 
 <h2>You can find me at:</h2>
