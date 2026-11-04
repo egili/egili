@@ -26,7 +26,12 @@
 </div>
 
 <br/>
+<br/>
 
-<sub>Powered by force.com</sub>
+<p align="center">
+  <img src="assets/saassy.jpg" width="40" align="middle" alt="" /> <sub> Governor limits respected · Powered by force.com</sub>
+</p>
+  
+</div>
 
 </div>
