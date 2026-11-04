@@ -26,7 +26,15 @@
 </div>
 
 <br/>
+<br/>
+
+<div style="display:flex;">
+<img src="assets/saassy.jpg" width="40" alt="" />
+<sub style="align-self: center">Saassy approves this README · Governor limits respected </sub>
 
 <sub>Powered by force.com</sub>
+  
+</div>
+</div>
 
 </div>
