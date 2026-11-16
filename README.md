@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00A1E0&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00A1E0&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
 <h3>Contact</h3>
 
