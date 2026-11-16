@@ -12,6 +12,8 @@
   <a href="mailto:e.gili@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
 </p>
 
+<p align="center"><img src="assets/divider.svg" width="640" alt="" /></p>
+
 <h3>Certifications</h3>
 
 <p>
@@ -24,6 +26,8 @@
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAGlB&oid=00DF0000000gZsu&lastMod=1746780638000"/>
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=174678254300"/>
 </div>
+
+<p align="center"><img src="assets/divider.svg" width="640" alt="" /></p>
 
 <h3>Education</h3>
 
