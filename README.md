@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=00A1E0&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
-</p>
-
 <h3>Contact</h3>
 
 <p>
@@ -14,6 +10,10 @@
   <a href="https://trailblazer.me/id/eliseugili"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
   <a href="mailto:gili.eliseup@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC3333?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:e.gili@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
 </p>
 
 <h3>Certifications</h3>
