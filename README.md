@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=28&pause=1000&color=00A1E0&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=28&pause=1000&color=8FA3B0&bgcolor=0D0D0D&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
 <h3>Contact</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/eliseu-gili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q"><img src="https://img.shields.io/badge/Spotify-33CC66?style=plastic&logo=spotify&logoColor=white" alt="Spotify" /></a>
-  <a href="https://trailblazer.me/id/eliseugili"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
-  <a href="mailto:gili.eliseup@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC3333?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="mailto:e.gili@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
+  <a href="https://www.linkedin.com/in/eliseu-gili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://open.spotify.com/user/192o02esmgzfwnz4qohv01d4q"><img src="https://img.shields.io/badge/Spotify-33CC66?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://trailblazer.me/id/eliseugili"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" /></a>
+  <a href="mailto:gili.eliseup@gmail.com"><img src="https://img.shields.io/badge/Gmail-CC3333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:e.gili@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
 </p>
 
 <h3>Certifications</h3>
 
 <p>
-  <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=H+HrX1yZaYgsebe2PyrD/ma7aDJrjQ4DrCVKIK6hD8Sx4RXPKAnAaph9iHWa3ER0" target="_blank"><img src="https://img.shields.io/badge/4x-Salesforce_Certified-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="4x Salesforce Certified" /></a>
+  <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=H+HrX1yZaYgsebe2PyrD/ma7aDJrjQ4DrCVKIK6hD8Sx4RXPKAnAaph9iHWa3ER0" target="_blank"><img src="https://img.shields.io/badge/4x-Salesforce_Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="4x Salesforce Certified" /></a>
 </p>
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 10px; flex-wrap: wrap;">
@@ -28,15 +28,15 @@
 <h3>Education</h3>
 
 <p>
-  <a href="https://www.cotuca.unicamp.br/"><img src="https://img.shields.io/badge/Graduated-COTUCA--UNICAMP-C8102E?style=plastic" alt="Graduated from COTUCA-UNICAMP" /></a>
-  <a href="https://www.puc-campinas.edu.br/"><img src="https://img.shields.io/badge/Student-PUC_Campinas-0B3D91?style=plastic" alt="Student at PUC Campinas" /></a>
+  <a href="https://www.cotuca.unicamp.br/"><img src="https://img.shields.io/badge/Graduated-COTUCA--UNICAMP-6D1A36?style=flat-square" alt="Graduated from COTUCA-UNICAMP" /></a>
+  <a href="https://www.puc-campinas.edu.br/"><img src="https://img.shields.io/badge/Student-PUC_Campinas-2F3B45?style=flat-square" alt="Student at PUC Campinas" /></a>
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
+  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
 </p>
 
 <br/>
