@@ -12,10 +12,6 @@
   <a href="mailto:e.gili@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Outlook" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
-</p>
-
 <h3>Certifications</h3>
 
 <p>
@@ -34,6 +30,13 @@
 <p>
   <a href="https://www.cotuca.unicamp.br/"><img src="https://img.shields.io/badge/Graduated-COTUCA--UNICAMP-C8102E?style=plastic" alt="Graduated from COTUCA-UNICAMP" /></a>
   <a href="https://www.puc-campinas.edu.br/"><img src="https://img.shields.io/badge/Student-PUC_Campinas-0B3D91?style=plastic" alt="Student at PUC Campinas" /></a>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
 </p>
 
 <br/>
