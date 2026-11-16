@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=0077CC&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Engineer+%E2%98%81%EF%B8%8F;4x+Salesforce+Certified+%F0%9F%93%9A;Graduated+from+COTUCA-UNICAMP;Student+at+PUC+Campinas" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&size=28&pause=1000&color=00A1E0&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
 <h3>Contact</h3>
 
@@ -25,7 +25,20 @@
   <img width="125" height="125" src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MA6fO&oid=00DF0000000gZsu&lastMod=174678254300"/>
 </div>
 
+<h3>Education</h3>
+
+<p>
+  <a href="https://www.cotuca.unicamp.br/"><img src="https://img.shields.io/badge/Graduated-COTUCA--UNICAMP-C8102E?style=plastic" alt="Graduated from COTUCA-UNICAMP" /></a>
+  <a href="https://www.puc-campinas.edu.br/"><img src="https://img.shields.io/badge/Student-PUC_Campinas-0B3D91?style=plastic" alt="Student at PUC Campinas" /></a>
+</p>
+
 <br/>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
+</p>
+
 <br/>
 
 <p align="center">
