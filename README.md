@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=28&pause=1000&color=8FA3B0&bgcolor=0D0D0D&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=28&pause=1000&color=8FA3B0&bgcolor=0D0D0D&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Forged+in+Salesforce+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
-<h3>Contact</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=28&pause=1000&color=8FA3B0&center=true&vCenter=true&width=640&height=50&repeat=false&lines=Contact" alt="Contact" /></p>
 
 <p>
   <a href="https://www.linkedin.com/in/eliseu-gili/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,7 +14,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="640" alt="" /></p>
 
-<h3>Certifications</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=28&pause=1000&color=8FA3B0&center=true&vCenter=true&width=640&height=50&repeat=false&lines=Certifications" alt="Certifications" /></p>
 
 <p>
   <a href="https://trailhead.salesforce.com/pt-BR/credentials/certification-detail-print/?searchString=H+HrX1yZaYgsebe2PyrD/ma7aDJrjQ4DrCVKIK6hD8Sx4RXPKAnAaph9iHWa3ER0" target="_blank"><img src="https://img.shields.io/badge/4x-Salesforce_Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="4x Salesforce Certified" /></a>
@@ -29,7 +29,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="640" alt="" /></p>
 
-<h3>Education</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&size=28&pause=1000&color=8FA3B0&center=true&vCenter=true&width=640&height=50&repeat=false&lines=Education" alt="Education" /></p>
 
 <p>
   <a href="https://www.cotuca.unicamp.br/"><img src="https://img.shields.io/badge/Graduated-COTUCA--UNICAMP-6D1A36?style=flat-square" alt="Graduated from COTUCA-UNICAMP" /></a>
