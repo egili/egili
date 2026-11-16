@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=FFB000&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1000&color=FFB000&center=true&vCenter=true&width=640&height=60&lines=Hi,+I'm+Eliseu+%F0%9F%91%8B;Salesforce+Developer+%E2%98%81%EF%B8%8F;Let's+connect+%F0%9F%A4%9D" alt="Headline" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developing_in_Salesforce-since_2021-00A1E0?style=plastic&logo=salesforce&logoColor=white" alt="Developing in Salesforce since 2021" />
